@@ -1,0 +1,17 @@
+thoughts:
+
+- an n-player game is an n+1-party interaction between the n players-qua-players
+  and the rule system, each of whom take actions to manipulate the world state.
+
+- the rules occupy a privileged position among the participants: what the rules
+  say, goes.
+
+behaviors of ruby:
+
+- when you reopen a class definition and redefine a method, all existing instances
+  of the class get the new implementation
+
+- the same is true for methods mixed in through include
+
+- the same is not true for instance variables, though presumably it is for class
+  variables and constants

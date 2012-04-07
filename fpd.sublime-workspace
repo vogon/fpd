@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"card_cza",
+				"card_czar_markup"
+			],
+			[
+				"str",
+				"streamFormat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Colin Bayer/Documents/awb/scripts/bake_set.rb",
+		"/C/Users/Colin Bayer/Documents/awb/model/gameset.rb",
+		"/C/Users/Colin Bayer/Documents/awb/model/answer.rb",
+		"/C/Users/Colin Bayer/Documents/awb/model/question.rb",
+		"/C/Users/Colin Bayer/Documents/awb/model/player.rb",
+		"/C/Users/Colin Bayer/Documents/awb/assets/core_1.2.yaml",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/AdvancedDemo1.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo9.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/AdvancedDemo3.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/AdvancedDemo2.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/AdvancedDemo4.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/AdvancedDemo5.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo1.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/GameDemo1.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo2.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo3.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo4.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo5.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo6.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo7.cs",
+		"/C/Users/Colin Bayer/Documents/Farseer Physics Engine 3.3.1 Samples XNA/Samples XNA/Samples XNA/Samples/SimpleDemo8.cs",
+		"/C/Users/Colin Bayer/Documents/fptest/Assets/Power.cs",
+		"/C/Users/Colin Bayer/Documents/awb/public/awb_client.js",
+		"/C/Users/Colin Bayer/Documents/awb/public/main.js",
+		"/C/Users/Colin Bayer/Documents/awb/public/awb.css",
+		"/C/Users/Colin Bayer/Documents/awb/public/main.html",
+		"/C/Users/Colin Bayer/Documents/awb/README",
+		"/C/Users/Colin Bayer/Documents/awb/main.rb",
+		"/C/Users/Colin Bayer/Documents/awb/nextpoint.rb",
+		"/C/Users/Colin Bayer/Documents/awb/status.rb",
+		"/C/Users/Colin Bayer/Documents/awb/play.rb",
+		"/C/Users/Colin Bayer/Documents/awb/join.rb",
+		"/C/Users/Colin Bayer/Documents/awb/newgame.rb",
+		"/C/Users/Colin Bayer/Documents/awb/controller/setloader.rb",
+		"/C/Users/Colin Bayer/Documents/awb/controller/logincontroller.rb",
+		"/C/Users/Colin Bayer/Documents/awb/controller/lobbycontroller.rb",
+		"/C/Users/Colin Bayer/Documents/awb/controller/gamecontroller.rb",
+		"/C/Users/Colin Bayer/Documents/awb/config.ru",
+		"/C/Users/Colin Bayer/Documents/awb/model/game.rb",
+		"/C/Users/Colin Bayer/Documents/awb/model/point.rb",
+		"/C/Users/Colin Bayer/Documents/awb/controller/playercontroller.rb",
+		"/C/Users/Colin Bayer/Documents/awb/www/main.html",
+		"/C/Users/Colin Bayer/Documents/awb/view.html",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/C/Users/Colin Bayer/Documents/awb/test.rb",
+		"/C/Users/Colin Bayer/Documents/awb/assets/test.yaml",
+		"/C/Users/Colin Bayer/Documents/sun_20/main.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/game.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/blox.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/map.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/unit.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/bots/testbots.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/bots/catalog.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/maps/testmaps.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/round.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/botstate.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/moverecorder.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/mission.rb",
+		"/C/Users/Colin Bayer/Documents/sun_20/sun20.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/object.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/main.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/server.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/client.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/script.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/workqueue.rb",
+		"/C/Users/Colin Bayer/Documents/rb-demotic/threadpool.rb",
+		"/C/Users/Colin Bayer/Documents/goofin-on-ruby/multifile.rb",
+		"/C/Users/Colin Bayer/Documents/goofin-on-ruby/mm_capture.rb",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/ILocalAudioClient.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/ILocalRecoClient.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/ILocalRecognizer.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/src/LocalRecognizer.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/src/RequestManager.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/dev/sapi/sapisvrMC/SapiSvrMC.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/src/LocalReco.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/RequestManager.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/LocalRecognizer.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/LocalRecoData.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/LocalReco/inc/LocalReco.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/inc/INetRecoClient.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/inc/NetReco.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/src/NetReco.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/inc/INetRecognizer.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/inc/NetRecognizer.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/src/NetRecognizer.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/src/netrecotask_speechbox.h",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/src/netrecotask_impl_speechbox.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/tests/functional/FT_Speech_UX_Facility_NetReco.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/tests/unit/UT_Speech_UX_Facility_NetReco.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/tests/functional/RecoClient.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/tests/functional/RecoClient.h",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/mock/inc/MockNetRecoData.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/mock/inc/MockNetRecognizer.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/mock/inc/MockNetRecoTask.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/mock/src/MockNetRecognizer.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/mock/src/MockNetRecoTask.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Facilities/NetReco/inc/NetRecoData.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Controllers/inc/Controller.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Controllers/src/Controller.cpp",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/Controllers/inc/ControllerData.w",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/build.mc.x86chk.err",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/ux/build.mc.x86chk.log",
+		"//cobayer-reason-d/wm7/8udsB/src/uxplat/speech/Product/ux/build.mc.x86chk.err",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/Packages/UX/speechux.pkg.xml",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/Packages/DataFiles/speechdata.pkg.xml",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/Packages/Core/speech.pkg.xml",
+		"//cobayer-reason-d/WM7/8udsB/src/uxplat/speech/Product/Packages/UX/wp.sources.dep",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/C++/C++.tmLanguage",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Program Files (x86)/IronPython 2.7/Tutorial/Extend/csxtest.py",
+		"/C/Program Files (x86)/IronPython 2.7/Tutorial/Extend/csextend.cs",
+		"/C/Program Files (x86)/IronPython 2.7/Tutorial/Extend/vbextend.vb",
+		"/C/Users/Colin Bayer/Documents/toy-questworld/city.py",
+		"/C/Users/Colin Bayer/Documents/toy-questworld/hero.py",
+		"/C/Users/Colin Bayer/Documents/toy-questworld/world.py",
+		"/C/Users/Colin Bayer/Documents/toy-questworld/character.py",
+		"/C/Users/Colin Bayer/Documents/sos/SosBoot/entry.asm",
+		"/C/Users/Colin Bayer/Documents/sos/bootsect.asm",
+		"/C/Users/Colin Bayer/Documents/magic/tests.hs",
+		"/C/Users/Colin Bayer/Documents/magic/gamestate.hs",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/Colin Bayer/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"facing",
+			"then",
+			":end",
+			"gen_label_for_next",
+			"@sockets",
+			"@clients",
+			"warning",
+			"    CHR(m_WildCardGrammarHelper.Initialize(GRAMMAR_SHAREDUI_WILDCARD, 1033, NULL));\n    CHR(m_cpLocalRecognizer->CreateGrammar(m_cpWildCardGrammar, 0));  \n    CHR(m_WildCardGrammarHelper.LoadMainGrammar(m_cpWildCardGrammar, NULL));\n    CHR(m_cpWildCardGrammar->SetGrammarState(SPGS_ENABLED));\n    CHR(m_cpWildCardGrammar->SetRuleState(NULL, NULL, SPRS_ACTIVE_WITH_AUTO_PAUSE));",
+			"m_pRecoTasks",
+			"LocalAudio",
+			"NotifyAudioBegin",
+			"SharedAudio",
+			"CSharedAudio"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"span",
+			":last",
+			"label_for_next",
+			"@clientSockets",
+			"@sockets",
+			"m_RecoTasks"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}
