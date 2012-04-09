@@ -1,43 +1,5 @@
-require 'thread'
 load './utility.rb'
-
-class Game
-	def initialize
-		@winner = nil
-		@rules = []
-	end
-
-	attr_accessor :winner
-
-	def on(trigger, &body)
-		@rules << { :trigger => trigger, :body => body }
-	end
-
-	def next
-		@rules.each do |rule|
-			if rule[:trigger].call then
-				return rule[:body].call
-			end
-		end
-	end
-
-	private
-	class PlayerProxy
-		def initialize(game, player)
-			@game = game
-			@player = player
-		end
-
-		def wins
-			@game.winner = @player
-		end
-
-		def method_missing(name, *args)
-			@player.send(name, *args)
-		end
-	end
-
-end
+load './game.rb'
 
 class NumberGuess < Game
 	def initialize(guesser, guessee)
@@ -52,35 +14,39 @@ class NumberGuess < Game
 		@on_guess = Event.new
 		@on_game_over = Event.new
 
-		on -> { guesses.index(goal) } do
-			self.guesser.wins
-			self.on_game_over.invoke(@winner)
-			true
-		end
+		on -> {guesses.index(goal)},
+			(lambda do
+				self.guesser.wins
+				self.on_game_over.invoke(@winner)
+				return true
+			end)
 
-		on -> { guesses.length == 3 } do
-			self.guessee.wins
-			self.on_game_over.invoke(@winner)
-			true
-		end
+		on -> { guesses.length == 3 },
+			(lambda do
+				self.guessee.wins
+				self.on_game_over.invoke(@winner)
+				true
+			end)
 
-		on -> { !goal } do
-			self.goal = guessee.ask_number.demand
-			nil
-		end
+		on -> { !goal },
+			(lambda do
+				self.goal = guessee.ask_number.demand
+				nil
+			end)
 
-		on -> { true } do
-			if guesses.length > 0 then
-				if (goal > guesses.last) then
-					self.on_guess.invoke(:higher)
-				else
-					self.on_guess.invoke(:lower)
+		on -> { true },
+			(lambda do
+				if guesses.length > 0 then
+					if (goal > guesses.last) then
+						self.on_guess.invoke(:higher)
+					else
+						self.on_guess.invoke(:lower)
+					end
 				end
-			end
 
-			self.guesses << guesser.ask_guess.demand
-			false
-		end
+				self.guesses << guesser.ask_guess.demand
+				false
+			end)
 	end
 
 	attr_accessor :on_guess
